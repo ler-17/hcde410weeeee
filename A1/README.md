@@ -35,7 +35,7 @@ SOFTWARE.
 Q1. When is the trail busiest, and when is it quietest?
 Q2. Do cyclists and pedestrians use the trail at different times of day?
 Q3. Is there evidence people use the Burke-Gilman to commute?
-
+Q4. Direction and flow. Are mornings mostly one direction and evenings the other? 
 
 ## How to re-run
 Open `A1.ipynb` and run all cells (needs `requests`, `pandas`, `matplotlib`).
