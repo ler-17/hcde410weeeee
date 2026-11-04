@@ -1,0 +1,24 @@
+﻿observation,theme
+"Changed the prompt's spelling of ""second"" to be the correct spelling",Prompt repair: 'correct' language
+"""checked the business name, added specific neighborhood of company (Ravenna), because they 'don’t know if copilot has the location'""",Prompt repair: clarifying
+"""mended the prompt: 'can you then come up with…' rather than 'can you come up with' """,Prompt repair: clarifying
+"""stated that they normally wouldn’t ask multiple questions in one go, but didn’t change the prompt""",Guiding the LLM
+“I would rather talk to AI like its a baby and then be proven wrong”,Guiding the LLM
+"""If I can asking multiple questions, I want to 'kindergarten-ify' it""",Guiding the LLM
+(menu output shows the correct selections for november),Output correctness
+"skimming the menu output, no thinking out loud here",Skipped verification
+“yeah I guess that’s right. I agree.” talking about how the model rephrased the tea flavor criteria,Trusting by whether they agree / like the output
+(None of the output's recommendations are from Queen Mary. The model didn't say the teas were guesses),Output correctness
+ooooo red chai!,Trusting by whether they agree / like the output
+They're skimming through the tea descriptions rather than checking if Queen Mary has these teas,Skipped verification
+“That would pair well. I agree” (talking about a tea based on the flavor descriptions),Trusting by whether they agree / like the output
+“This makes a lot of sense” (to a pairing rationale),Trusting by whether they agree / like the output
+“That’s an interesting tea...Oh it WOULD go well with the sandwiches”,Trusting by whether they agree / like the output
+“This would be my choice or the red chai”,Trusting by whether they agree / like the output
+“That would brighten everything up and cut through the richness. I agree” (direct quote from the output),Trusting by whether they agree / like the output
+Done reading through the output. No checking or other verification. ,Skipped verification
+"(In response to whether they trusted the output) ""I do trust the answer; copilot is my favorite of the language models because i don’t have to baby it as much. ChatGPT you have to BABY a lot.""",Trusting by whether the model understood the question
+"CoPilot doesn’t feel like I’m talking to a five year old with all of the internet at its disposal 
+it feels like I’m talking to something intelligent. I like the way it phrases things. I don’t have to rephrase things: CoPilot usually just understands me",Trusting by whether the model understood the question
+"(In response to how they would verify this answer themselves) I would probably just google it, look at their menu and see if I can figure it out myself, then start scrolling through their list of teas and then get lost in the sauce. Lowkey I might just ask you. (talking about me, the researcher)",Hesitant to use LLMs to answer questions
+"If I had to ask AI, I would put the list of their teas and the menu into AI and ask it to make recommendations. Not an open prompt like this. I would guide it a lot more. ",Guiding the LLM
