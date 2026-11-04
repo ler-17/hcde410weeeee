@@ -28,4 +28,5 @@ The notebook does not fetch external data — the DataFrames are populated by ha
 
 ## License
 
+Public Domain
 Released under the MIT License — see [`LICENSE`](./LICENSE).
